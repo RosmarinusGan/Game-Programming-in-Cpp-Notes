@@ -1,0 +1,1 @@
+1. The term **game object** refers to anything in the game world that updates, draws, or both updates and draws.
